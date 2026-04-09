@@ -1,0 +1,5 @@
+local h = Instance.new("Hint")
+h.Parent = workspace
+h.Text = "text here"
+
+-- i was probably bored so yeah
