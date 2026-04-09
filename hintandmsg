@@ -3,3 +3,8 @@ h.Parent = workspace
 h.Text = "text here"
 
 -- i was probably bored so yeah
+-- message script
+local m = Instance.new("Message")
+
+m.Parent = workspace
+m.Text = "text here 2"
