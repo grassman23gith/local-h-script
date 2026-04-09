@@ -1,0 +1,7 @@
+-- use this script in roblox
+-- its a local or something
+-- i tried it in a executor game and it showed for a split second in serverside i think
+-- it stays when you execute it to you only (i think so)
+-- welp
+-- enjoy your local script
+-- idk if its local
